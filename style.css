@@ -1,0 +1,168 @@
+body {
+  background: #fcfcfc;
+}
+#navlogo {
+  width: 60px;
+  height: 60px;
+}
+.logobox {
+  width: 130px;
+  font-size: 15px;
+}
+.deepcolor {
+  color: #1f1e9c !important;
+}
+.pill {
+  border-radius: 50px !important;
+  font-size: small;
+  height: 34px;
+  background: #4946c6 !important;
+  padding: 0px 37px !important;
+}
+
+.navcontent {
+  width: 720px;
+}
+.navcolor {
+  color: #8d8a8a !important;
+}
+#line {
+  border-bottom-style: solid !important;
+  border-width: 1px !important;
+  border-color: #1f1e9c !important;
+}
+h1 {
+  font-family: "Nunito", serif;
+  font-weight: bold;
+}
+.innercirlce {
+  background-color: #fdede0;
+  height: 56px;
+  width: 56px;
+  border-radius: 100px;
+  color: #f39848;
+}
+.outercircle {
+  height: 70px;
+  width: 70px;
+  border-style: solid;
+  border-color: #f39848;
+  background-color: white;
+  border-radius: 100px;
+}
+.grayinner {
+  background-color: rgb(238, 235, 235);
+  height: 56px;
+  width: 56px;
+  border-radius: 100px;
+  color: #b8b8b8 !important;
+}
+.outer {
+  height: 70px;
+  width: 70px;
+  border-style: solid;
+  border-color: #b8b8b8;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+}
+
+.orangecolor {
+  color: #f39848 !important;
+}
+.graycolor {
+  color: #b8b8b8;
+}
+#maincontent {
+  height: 860px;
+  box-shadow: 0px 0px 35px 28px #f7f7f7;
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: white;
+}
+
+.bignumber {
+  font-size: 50px;
+  font-family: "Londrina Outline", sans-serif;
+}
+.geninfo {
+  font-size: 25px;
+  color: #5b5b5b;
+  font-family: "Spartan", sans-serif;
+}
+.fontdeco {
+  font-family: "Poppins", sans-serif;
+}
+#bottomline {
+  border-bottom-style: solid !important;
+  border-width: 1px !important;
+  border-color: #e9e6e6 !important;
+}
+
+.cards {
+  width: 150px;
+  height: 70px;
+  box-shadow: 1px 1px 3px 3px #e6dcdcf8 !important;
+  border-radius: 10px !important;
+  border: none;
+}
+.cards1 {
+  width: 150px;
+  height: 70px;
+  box-shadow: 1px 1px 3px 3px #ebd0ba !important;
+  border-radius: 10px !important;
+  border: none;
+}
+
+.cardimage {
+  width: 50px !important;
+}
+
+.bigcard {
+  width: 260px;
+  height: 230px;
+  border-radius: 15px !important;
+  box-shadow: 1px 1px 3px 3px #e7dfdff8 !important;
+  border: none;
+}
+.bigcard2 {
+  width: 260px;
+  height: 230px;
+  border-radius: 15px !important;
+  box-shadow: 0px 0px 10px 4px #ebd0ba !important;
+  border: none;
+}
+.doctor {
+  width: 75px;
+  height: 75px;
+  border-radius: 100px;
+}
+.starwidth {
+  width: 70px !important;
+}
+.smallfont {
+  font-size: 11px !important;
+  color: #d2d2d2;
+}
+.timeheight {
+  line-height: 5px !important;
+}
+.doctorname {
+  font-size: 14px !important;
+}
+.pill2 {
+  border-radius: 50px !important;
+  font-size: small;
+  height: 40px;
+  background: #f39848 !important;
+  padding: 2px 60px !important;
+  width: 170px;
+}
+.lateralscroll {
+  font-size: 12px;
+}
+.deeporange {
+  color: orange;
+}
+.geninfocolor {
+  color: #5b5b5b;
+}
