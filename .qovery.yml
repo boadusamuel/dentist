@@ -1,0 +1,11 @@
+---
+application:
+  name: "dentist"
+  project: "samuel"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-dentist"
+  routes:
+  - application_name: "dentist"
+    paths:
+    - "/*"
